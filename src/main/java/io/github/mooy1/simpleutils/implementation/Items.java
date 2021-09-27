@@ -28,7 +28,7 @@ public final class Items {
             "SIMPLE_WRENCH",
             Material.IRON_HOE,
             "&6简易扳手",
-            "&e右键点击来快速卸下货物，拆下电容或拆解机器"
+            "&e右键点击来快速拆除物流、电容或机器"
     );
     public static final SlimefunItemStack SIEVE = new SlimefunItemStack(
             "SIMPLE_SIEVE",
