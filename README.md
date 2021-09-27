@@ -1,36 +1,39 @@
-# SimpleUtils
-A small utility addons which adds useful tools and blocks.
+# 简易工具
 
-## Features
+一个用于添加实用的工具和方块的小插件。
 
-- Enhanced Workbench - Craft Vanilla and Slimefun recipes in 1 menu
+## 功能
 
-- Simple Elevator - Jump to go up, crouch to go down
+- 增强型工作台 - 在同一个页面中使用原版和粘液科技的配方
 
-- Wrench - quickly break cargo nodes, capacitors, and electric machines
+- 简易电梯 - 使用潜行键来下降，跳跃键来上升
 
-## Download
-https://thebusybiscuit.github.io/builds/Mooy1/SimpleUtils/master/
+- 扳手 - 快速拆除物流、电容和机器
 
-[![Build Status](https://thebusybiscuit.github.io/builds/Mooy1/SimpleUtils/master/badge.svg)](https://thebusybiscuit.github.io/builds/Mooy1/GridExpansion/master)
+## 下载
 
-## Requirements
-Minecraft Version: 1.16+ (Paper recommended)
+在本存储库的 [Github Actions 页面](https://github.com/UnnamedCraft/SimpleUtils/actions)可以下载最新的构建。
 
-Slimefun Version: DEV 966+
+[![构建状态](https://img.shields.io/github/workflow/status/UnnamedCraft/PotionExpansion/Java%20CI?style=for-the-badge)](https://github.com/UnnamedCraft/PotionExpansion/actions)
 
-[![Build Status](https://thebusybiscuit.github.io/builds/TheBusyBiscuit/Slimefun4/master/badge.svg)](https://thebusybiscuit.github.io/builds/TheBusyBiscuit/Slimefun4/master/)
+## 依赖
 
-## Changelog
+Minecraft 版本：1.16+
 
-Dev 8 - Fixed sieve, requires slimefun Dev 900+ now
+粘液科技插件版本：DEV 966+
 
-Dev 9 - Fix 2 bugs, hammers are deprecated
+[![构建状态](https://thebusybiscuit.github.io/builds/TheBusyBiscuit/Slimefun4/master/badge.svg)](https://thebusybiscuit.github.io/builds/TheBusyBiscuit/Slimefun4/master/)
 
-Dev 10 - Removed Hammers, added new metrics
+## 更新日志
 
-Dev 11 - Fixes
+Dev 8 - 修复筛网，现在需要粘液科技插件版本为 Dev 900+
 
-Dev 12 - Internal Updates, Elevators now copy block below
+Dev 9 - 修复 2 个问题，弃用了锤子
 
-Dev 13 - Simple Workbench can only do vanilla recipes with mc 1.17+
+Dev 10 - 移除了锤子，添加了新的弱依赖
+
+Dev 11 - 修复问题
+
+Dev 12 - 内部更新，电梯现在会复制下方的方块
+
+Dev 13 - 简易工作台在 Minecraft 1.17+ 中只能使用原版配方
