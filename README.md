@@ -1,8 +1,7 @@
 <h1 align="center">简易工具</h1>
 
 <p align="center">
-    一个用于添加实用的工具和方块的小插件。
-    
+    一个用于添加实用的工具和方块的小插件。  
     <a href="https://github.com/UnnamedCraft/SimpleUtils/actions">
         <img alt="构建状态" src="https://img.shields.io/github/workflow/status/UnnamedCraft/PotionExpansion/Java%20CI?style=for-the-badge"></img>
     </a>
