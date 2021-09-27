@@ -2,8 +2,7 @@
 
 <p align="center">
     一个用于添加实用的工具和方块的小插件。
-    <p height="10"></p>
-    <a href="https://github.com/UnnamedCraft/SimpleUtils/actions">
+    <a href="https://github.com/UnnamedCraft/SimpleUtils/actions" style="margin-top: 10px">
         <img alt="构建状态" src="https://img.shields.io/github/workflow/status/UnnamedCraft/PotionExpansion/Java%20CI?style=for-the-badge"></img>
     </a>
 </p>
