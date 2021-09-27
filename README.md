@@ -1,8 +1,13 @@
-# 简易工具
+<h1 align="center">简易工具</h1>
 
-一个用于添加实用的工具和方块的小插件。
+<p align="center">
+    一个用于添加实用的工具和方块的小插件。
+    <a href=="https://github.com/UnnamedCraft/SimpleUtils/actions">
+        <img alt="构建状态" src="https://img.shields.io/github/workflow/status/UnnamedCraft/PotionExpansion/Java%20CI?style=for-the-badge"></img>
+    </a>
+</p>
 
-## 功能
+## 内容
 
 - 增强型工作台 - 在同一个页面中使用原版和粘液科技的配方
 
@@ -13,8 +18,6 @@
 ## 下载
 
 在本存储库的 [Github Actions 页面](https://github.com/UnnamedCraft/SimpleUtils/actions)可以下载最新的构建。
-
-[![构建状态](https://img.shields.io/github/workflow/status/UnnamedCraft/PotionExpansion/Java%20CI?style=for-the-badge)](https://github.com/UnnamedCraft/PotionExpansion/actions)
 
 ## 依赖
 
